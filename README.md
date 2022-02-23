@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CarlaFFochs
+- 👋 Hi, I’m @CarlaFF
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 📫 How to reach me carlaffochs@gmail.com
